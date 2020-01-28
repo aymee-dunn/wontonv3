@@ -1,0 +1,153 @@
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 900;
+}
+
+p {
+  font-family: 'Gabriela', serif;
+  font-size: 1rem;
+  color: grey;
+}
+
+/* Title */
+#title {
+  background-color: #c9485b;
+}
+
+.logo {
+  font-family: 'Ruge Boogie', cursive;
+  text-align: left;
+}
+
+.containter-fluid {
+  padding: 2% 15%;
+}
+
+.navbar {
+  padding: 8px 0;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.wonton-profile3 {
+  width: 100%;
+}
+
+.opening {
+  color: white;
+  padding-top: 8%;
+  padding-bottom: 10%;
+}
+
+.download-button {
+  margin: 10% 3% 5% 0;
+}
+
+/* About-me */
+#about-me {
+  padding: 5% 15% 2%;
+}
+
+.veni-vedi-veci {
+  text-align: center;
+  line-height: 1.8;
+}
+
+.icon {
+  color: #ff6464;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #db3056;
+}
+
+/* Flags */
+#flags {
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+@media (max-width:900px) {
+  .flag-img {
+    max-width: 20%;
+  }
+}
+
+.flag-img {
+  padding: 2%;
+  border-radius: 100%;
+}
+
+/* Gallery */
+#gallery {
+  background-color: #d45d79;
+  text-align: center;
+}
+
+.gallery-image {
+  width: 50%;
+  border-radius: 20%;
+  margin: 30px;
+}
+
+.carousel-item {
+  padding: 1% 0 4%;
+  color: #fff;
+}
+
+/* Meet Up */
+#meet-up {
+  padding: 5% 15% 5%;
+}
+
+.meet-up-opening {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.card-header {
+  text-align: center;
+}
+
+/* Friends */
+#friends {
+  background-color: #6e5773;
+  color: #fff;
+  padding: 3% 5%;
+}
+
+.card-columns {
+  padding-top: 2%;
+}
+
+.card-img-top {
+  padding: 3%;
+  border-radius: 10%;
+}
+
+/* Contact */
+#contact {
+  text-align: center;
+  padding: 3% 7%;
+}
+
+.footer-icon {
+  padding: 2% 1%;
+}
+
+.footer-icon:hover {
+  color: #6e5773;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+}
